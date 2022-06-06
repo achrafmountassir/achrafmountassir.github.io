@@ -1,6 +1,6 @@
 ---
-published: false
+published: true
 ---
 ###
 
-Basic of reverse engineering 
+Basic of reverse engineering
