@@ -86,3 +86,4 @@ exclude:
   - CNAME
   
 published: true
+future: true
