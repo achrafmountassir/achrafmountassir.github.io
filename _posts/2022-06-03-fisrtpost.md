@@ -1,6 +1,13 @@
 ---
 published: false
 ---
-###
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
-Hello world
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
