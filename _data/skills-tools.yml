@@ -1,0 +1,25 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: Burp suite
+  weight: 4
+
+- name: Bash
+  weight: 4
+
+- name: IDA pro
+  weight: 3
+    
+- name: gdb
+  weight: 3
+
+- name: Kali linux
+  weight: 4
+
+- name: Searching
+  weight: 2
+  
